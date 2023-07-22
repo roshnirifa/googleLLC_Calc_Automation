@@ -1,0 +1,3 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Sat Jul 22 12:40:31 BDT 2023","Sat Jul 22 12:40:51 BDT 2023","19311","Google LLC Calculator test automation","Calculation","calcTestRunner","calcTestRunner","doSeries","Do series 100/10*5-10+60",""
+"passed","Sat Jul 22 12:40:53 BDT 2023","Sat Jul 22 12:41:10 BDT 2023","17160","Google LLC Calculator test automation","Calculation","calcTestRunner","calcTestRunner","doSeries2","Do series 50+10-20*2+10/2",""
