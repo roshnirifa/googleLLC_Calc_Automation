@@ -16,13 +16,17 @@ This project aims to automate the calculation of arithmetic series using a calcu
 
 ## Functionalities
 100/10*5-10+60
+
 or
+
 50+10-20*2+10/2
 
 pseudocode for your test function can be look like:
 
 public void doSeries(){
+
 calcuateSeries("100/10*5-10+60");
+
 }
 
 
